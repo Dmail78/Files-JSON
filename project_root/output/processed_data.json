@@ -1,0 +1,16 @@
+[
+          {
+                    "file_name": "file1_processed.txt",
+                    "text_source": " Всем привет, heLLo!\n    Пробный TeXt для понимания работы с coDec \n    Текст закончен. Пока.\n    1254 eNd.\n    ",
+                    "text_now_": " вСЕМ ПРИВЕТ, HEllO!\n    пРОБНЫЙ tExT ДЛЯ ПОНИМАНИЯ РАБОТЫ С COdEC \n    тЕКСТ ЗАКОНЧЕН. пОКА.\n    1254 EnD.\n    ",
+                    "size": 169,
+                    "dt": "04.12.24"
+          },
+          {
+                    "file_name": "file2_processed.txt",
+                    "text_source": "  , heLLo!\n     TeXt     coDec \n     . .\n    1254 eNd.\n    ",
+                    "text_now_": "  , HEllO!\n     tExT     COdEC \n     . .\n    1254 EnD.\n    ",
+                    "size": 63,
+                    "dt": "04.12.24"
+          }
+]

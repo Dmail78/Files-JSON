@@ -1,0 +1,9 @@
+Создали директорию D:\GPT\Ptn\Files&JSON\project_root\backups. Дата и время создания: 2024-12-04 16:08:00.916101
+Создали директорию D:\GPT\Ptn\Files&JSON\project_root\data. Дата и время создания: 2024-12-04 16:08:00.915104
+Создали директорию D:\GPT\Ptn\Files&JSON\project_root\logs. Дата и время создания: 2024-12-04 16:08:00.916101
+Создали директорию D:\GPT\Ptn\Files&JSON\project_root\output. Дата и время создания: 2024-12-04 16:08:00.917098
+Создали директорию D:\GPT\Ptn\Files&JSON\project_root\data\processed. Дата и время создания: 2024-12-04 16:08:00.916101
+Создали директорию D:\GPT\Ptn\Files&JSON\project_root\data\raw. Дата и время создания: 2024-12-04 16:08:00.915104
+Создали файл D:\GPT\Ptn\Files&JSON\project_root\data\raw\file1.txt. Дата и время создания: 2024-12-04 16:08:00.920089
+Создали файл D:\GPT\Ptn\Files&JSON\project_root\data\raw\file2.txt. Дата и время создания: 2024-12-04 16:08:00.922085
+Создали файл D:\GPT\Ptn\Files&JSON\project_root\logs\logs.txt. Дата и время создания: 2024-12-04 16:08:00.923082
